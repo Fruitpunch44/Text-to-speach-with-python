@@ -28,9 +28,9 @@ This Python application allows you to extract text from a PDF and convert it to 
   - `pyttsx3` (for text-to-speech)  
 
 Install the required libraries using:
-*add requiurements text later
+
 ```bash
-pip install PyPDF2 pyttsx3
+pip install -r requirements.txt
 ```
 
 ---
